@@ -1,0 +1,104 @@
+.service{
+    margin: 0;
+}
+nav{
+    background-color: white;
+    align-items: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 7%;
+    padding-left: 7%;
+    justify-content: space-between;
+    display: flex;
+}
+ul{
+    display: flex;
+    gap: 50px;
+   list-style: none;
+}
+.firstsection{
+    background-color: #c2c2c2;
+}
+.PD{
+    display: grid;
+    padding-top: 150px;
+    gap: 20px;
+    padding-bottom: 150px;
+    grid-template-columns:1fr 1fr ;
+    align-items: center;
+}
+.head{
+    font-size: 100px;
+    padding-left: 13%;
+}
+.firstimage{
+    width: 90%;
+    border-radius: 20px;
+    height: 600px ;
+}
+.secondsection{
+    background-color:white ;
+    text-align: center;
+}
+.note1{
+    text-align: center;
+}
+.secondsection{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.secondimage{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding-right: 7%;
+    padding-left: 7%;
+    gap: 7px;
+}
+.service{
+    font-size: 40px;
+    text-align: center;
+}
+.note2{
+    text-align: center;
+}
+.thirdimage{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding-right: 7%;
+    padding-left: 7%;
+    gap: 3px;
+}
+.thirdsection{
+    background-color: #c2c2c2;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.forthsection{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: white;
+}
+.contact{
+    font-size: 40px;
+    text-align: center;
+}
+.fashion{
+    font-size:60px ;
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+.button{
+    background-color: rgb(209, 12, 12);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    border-radius: 2%;
+    color: white;
+    text-align: center;
+    border-radius: 2%;
+    align-items: center;
+}
+
+
